@@ -9,5 +9,3 @@ This github contains a bunch of private projects I worked on over the years – 
 ![Language breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchmelder23&layout=compact)
 
 Find me on Discord: Lauchmelder#1234
-
-*Corrupting the heap for fun and profit*
