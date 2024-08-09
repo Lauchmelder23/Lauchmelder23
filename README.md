@@ -2,7 +2,7 @@
 
 **This account is archived**
 
-I have migrated all my projects to my personal GitLab instance, which is strictly private. If I choose to publish code, I will not do it here.
+I have migrated all my projects to my personal Forgejo instance at https://repos.einweckglas.com. If I decide to publish code it will be there.
 
 Start self-hosting your services.
 
