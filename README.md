@@ -1,4 +1,10 @@
-# Hi there!
+# Hi there! (archived)
+
+**This account is archived**
+
+I have migrated all my projects to my personal GitLab instance, which is strictly private. If I choose to publish code, I will not do it here.
+
+Start self-hosting your services.
 
 <!--
 **Lauchmelder23/Lauchmelder23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
